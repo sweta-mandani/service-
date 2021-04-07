@@ -1,0 +1,5 @@
+C:\Users\sweta.mandani\source\repos\ServiceBookingSystem\DealerManagement.Models\bin\Debug\DealerManagement.Models.dll
+C:\Users\sweta.mandani\source\repos\ServiceBookingSystem\DealerManagement.Models\bin\Debug\DealerManagement.Models.pdb
+C:\Users\sweta.mandani\source\repos\ServiceBookingSystem\DealerManagement.Models\obj\Debug\DealerManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\sweta.mandani\source\repos\ServiceBookingSystem\DealerManagement.Models\obj\Debug\DealerManagement.Models.dll
+C:\Users\sweta.mandani\source\repos\ServiceBookingSystem\DealerManagement.Models\obj\Debug\DealerManagement.Models.pdb
